@@ -1,0 +1,13 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.qw.nolimitsparcool.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ParCoolCapabilitiesMixin",
+    "ParCoolStaminaMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
